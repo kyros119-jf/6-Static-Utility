@@ -1,0 +1,15 @@
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\bin\Debug\net10.0\6-Static-Utility.exe
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\bin\Debug\net10.0\6-Static-Utility.deps.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\bin\Debug\net10.0\6-Static-Utility.runtimeconfig.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\bin\Debug\net10.0\6-Static-Utility.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\bin\Debug\net10.0\6-Static-Utility.pdb
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.AssemblyInfoInputs.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.AssemblyInfo.cs
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.csproj.CoreCompileInputs.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.sourcelink.json
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\refint\6-Static-Utility.dll
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.pdb
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\6-Static-Utility.genruntimeconfig.cache
+C:\Users\kyros\Softwares\CS-1410-Assignments\6-Static-Utility\6-Static-Utility\obj\Debug\net10.0\ref\6-Static-Utility.dll
